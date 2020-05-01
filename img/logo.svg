@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="145" height="37" viewBox="0 0 145 37">
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(0 1.032)">
+            <path stroke="#FFF" stroke-width="2.736" d="M2.28 25.29L23.844 3.523a.456.456 0 0 1 .78.321v21.692"/>
+            <circle cx="2.736" cy="24.624" r="2.736" fill="#FFF"/>
+            <circle cx="24.624" cy="24.624" r="2.736" fill="#FFF"/>
+            <circle cx="24.624" cy="2.736" r="2.736" fill="#FFF"/>
+        </g>
+        <text fill="#FFF" font-family="Avenir-BlackOblique, Avenir" font-size="37.392" font-style="italic" font-weight="700" letter-spacing=".17" transform="translate(0 -9)">
+            <tspan x="43.32" y="37">vay.ai</tspan>
+        </text>
+    </g>
+</svg>

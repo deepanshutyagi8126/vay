@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100%" height="100%" viewBox="0 0 414 630" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Path 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="47.3511201%" cy="68.3215496%" fx="47.3511201%" fy="68.3215496%" r="50.2028132%" gradientTransform="translate(0.473511,0.683215),scale(1.000000,0.658730),rotate(-156.851412),translate(-0.473511,-0.683215)" id="radialGradient-1">
+            <stop stop-color="#152969" offset="0%"></stop>
+            <stop stop-color="#112154" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home_iPhoneX" fill="url(#radialGradient-1)">
+            <polygon id="Path-6" points="-1 630 414 590.526104 413.599693 0 -0.356818138 0"></polygon>
+        </g>
+    </g>
+</svg>

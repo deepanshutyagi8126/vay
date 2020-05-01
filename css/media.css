@@ -1,0 +1,971 @@
+@media(max-width:1920px){
+
+}
+@media(max-width:1367px){
+  
+
+    .feedback {
+        padding: 90px 0px;
+    }
+    .sports_inner p {
+        padding-right: 50px;
+    }
+    .belive_inner h2 {
+        padding: 25px 415px;
+    }
+    .belive_inner p {
+        padding: 25px 300px 50px;
+    }   
+    .million_outer {
+        clip-path: polygon(100% 0, 100% 92%, 0% 100%, 0 8%);
+    }
+    .sports_case {
+        padding: 120px 0px;
+    }
+    .feature {
+        padding: 25px 0px;
+    }
+    .feedback.feedback2 {
+        padding: 45px 0px 320px;
+    }
+    .footBottom {
+        padding: 310px 0 210px;
+    }
+    .footTop .foottopBox {
+     
+    }
+    .footerTopbox h2 span {
+        margin-top: 15px;
+    }
+    h2.headingSize {
+        font-size: 34px;
+    }
+    h1.headingSize {
+        font-size: 43px;
+    }
+    .feature h2 {
+        padding: 25px 300px;
+    }
+
+
+
+}
+@media(max-width:1199px){
+
+
+    h1.headingSize {
+        font-size: 40px;
+    }
+    .known_right ul li {
+        width: 176px;
+        height: 70px;
+    }
+    p.headingSize {
+        font-size: 17px;
+    }
+    .banner_left .headingSize1 {
+        padding: 5px 35px 15px 0px;
+    }
+    .known_left {
+        padding-top: 26px;
+    }
+    .known_left h3
+    {
+        font-size: 32px;
+    }
+    .banner_left {
+        padding-top: 60px;
+    }
+    a.btns
+    {
+        width: 190px;
+    }
+    a.btns.featureBtn {
+        padding: 12px 0px;
+    }
+    .banner {
+        margin-bottom: 40px;
+    }
+    .known_from {
+        padding: 60px 0px 90px;
+    }
+    .feedback {
+        padding: 65px 0px;
+    }
+    .feedback h3 {
+        padding-right: 60px;
+    }
+    .sports_case {
+        padding: 90px 0px;
+    }
+    h2.headingSize {
+        font-size: 34px;
+    }
+    .feature p {
+        padding: 25px 220px;
+    }
+    h2.headingSize {
+        font-size: 30px;
+    }
+    .feedback h3 {
+        padding-right: 45px;
+    }
+    .feedback h3 {
+        padding: 22px 0px 15px;
+    }
+    .featBtn2 {
+        padding: 60px 0px 0px;
+    }
+    .feedback.feedback2 {
+        padding: 45px 0px 250px;
+    }
+    .footerTopbox
+    {
+        padding: 70px 45px 70px;
+    }
+    .footBottom {
+        padding: 295px 0 170px;
+    }
+    .footerInner .col-sm-3:first-child
+    {
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 20px;
+    }
+    .footerInner .col-sm-6 {
+        flex: 0 0 70%;
+        max-width: 70%;
+    }
+    .footerInner .col-sm-3:last-child
+    {
+        flex: 0 0 30%;
+        max-width: 30%;
+    }
+    .footBackground
+    {
+        width: 23%;
+    }
+
+    .ban-right-img {
+    top: 115px;
+}
+    .banner_left.banner_left2 {
+    padding-top: 100px;
+}
+    .sports_right.sports_right2{
+        width: auto;
+        height: 250px;
+    }
+    .sports_case.sports_case1 {
+    padding: 115px 0px 0px;
+}
+    .cust {
+    margin: 85px 0px;
+    padding: 80px 0px 60px;
+}
+    .helsana {
+    padding: 50px 0px;
+}
+    .feedback.feedback3 {
+    padding: 0px 0px 105px;
+}
+    .teamBehind {
+    margin-bottom: 50px;
+}
+    .techStand {
+    padding-bottom: 55px;
+}
+    .partners {
+    padding-top: 20px;
+}
+    .marginBottom {
+    margin-bottom: 100px;
+}
+    .teamImg {
+    height: 280px;
+}
+    .formLeft h3 {
+    font-size: 38px;
+    line-height: 44px;
+    }
+    .sports_case.sports_case4.sports_case6 {
+    padding: 70px 0px;
+}
+  .banner.bannerNew{
+    margin-bottom: 80px;
+} 
+
+.sportModal .modal-content {
+    position: inherit;
+    background: transparent;
+    border: none;
+    max-width: 800px;
+}
+    .sportModal .close:not(:disabled):not(.disabled) {
+    position: absolute;
+    right: 15px;
+
+}
+ 
+}
+@media(max-width:991px){
+
+    /* Sidenav Start */
+    .header
+    {
+        padding: 25.5px 0;
+    }
+    .topBoxs {
+        margin-top: 85px;
+    }
+    .navbar-expand-md .navbar-toggler {
+        display: block;
+    }
+    .navbar-expand-md .navbar-collapse#nav {
+                  height: 0;
+  width: 0;
+  position: fixed;
+  top: 0;
+  right: -12px;
+        background-image: linear-gradient(to bottom, #152969, #142764, #13255e, #122359, #112154);
+        /*transition: all 0.3s ease;*/
+        transition: 0.2s;
+        display: initial !important;
+        margin-top: 0;
+        padding: 25.5px 12px 0px 15px;
+        z-index: 9;
+        
+    }
+    .navbar-collapse#nav  .headerBox{
+    transition: 0.3s;
+}
+.mobDiv .navbar-collapse#nav  .navbar-nav{
+    padding-top:100px;
+}
+.mobDiv .navbar-collapse#nav  .navbar-nav, .mobDiv .callBtn, .mobDiv .socialIcon{
+    margin-left:70px;
+}
+.mobDiv .callBtn{
+    margin-bottom:15px;
+        margin-top: 55px;
+            background: #fff;
+    color: #112154;
+    padding: 15px 0px 13px;
+}
+    .mobDiv .navbar-brand, .mobDiv .socialIcon{
+    display:block;
+}
+.mobDiv button{
+ position: absolute;
+    right: 0;
+    z-index: 99;
+}
+
+    .navbar-expand-md .navbar-collapse#nav.show{
+        min-height: 100%;
+        width:100%;
+        right: 0;
+    }
+    .nav-link:hover, .nav-link:focus
+    {
+        border-bottom: none;
+    }
+    .navbar-expand-md .navbar-nav {
+        flex-direction: column;
+    }
+    .navbar-light .navbar-nav .nav-item {
+        margin-bottom: 5px;
+    }
+    .headerBox 
+    {
+        display: block !important;
+        float: left !important;
+    }
+    .navbar-expand-md .navbar-nav .nav-link
+    {
+        padding: 0;
+        font-size: 22px;
+        font-family: var(--fontBlack);
+    }
+    .nav-link:hover, .nav-link:focus, .nav-link.active{
+         border-bottom:none;
+    }
+    .nav-item
+    {
+        margin-bottom: 15px;
+    }
+    .navbar-expand-md .navbar-nav .dropdown-menu
+    {
+        position: relative;
+        background: transparent;
+        border: none;
+        padding-bottom: 0;
+    }
+    .navbar-expand-md .navbar-nav .dropdown-menu.show
+    {
+        transition: all 0.3s ease;
+        padding-left:30px;
+    }
+    
+    .dropdown-item
+    {
+        color: #fff;
+    }
+    a.callBtn
+    {
+        margin-left: 0;
+        margin-top: 15px;
+        float: left;
+    }
+
+
+    .known_left h3 {
+        font-size: 28px;
+    }
+    .known_right ul li {
+        width: 124px;
+        height: 55px;
+    }
+    .known_left {
+        padding-top: 18px;
+    }
+    .known_from {
+        padding: 45px 0px 75px;
+    }
+    .sports_inner p {
+        padding-right: 0px;
+    }
+    .feature p {
+        padding: 20px 75px;
+    }
+    .feature h2 {
+        padding: 20px 140px;
+    }
+    .feedback {
+        padding: 45px 0px;
+    }
+    .sports_case {
+        padding: 70px 0px;
+    }
+    a.btns {
+        width: 165px;
+        font-size: 16px;
+        padding: 13px 0px;
+    }
+    h2.headingSize
+    {
+        line-height: 38px;
+    }
+    .belive_inner h2 {
+    padding:25px 0;
+}
+.belive_inner p {
+    padding: 25px 155px 50px;
+}
+    a.headsize {
+        font-size: 16px;
+    }
+    .footBottom {
+        padding: 280px 0 140px;
+    }
+    .footer p
+    {
+        font-size: 16px;
+    }
+    .footerInner .col-sm-6 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 20px;
+    }
+    .footerInner .col-sm-3:last-child
+    {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .sports_right
+    {
+        height: 250px;
+    }
+    .ban-right-img {
+        top: 10px;
+    }
+    .footBackground {
+        width: 36%;
+    }
+    .sports_case.sports_ca {
+    padding: 20px 0px 50px;
+}
+    .techStand {
+    padding-bottom: 40px;
+}
+    .techStand .lines {
+    margin-top: 25px;
+}
+
+        .partnerInner ul li img{
+            width: 80%;
+            object-fit: cover;
+    }
+    .partners {
+    padding-top: 0px;
+}
+    .feedback.feedback3 {
+    padding: 0px 0px 85px;
+}
+    .sports_case.sports_case4 {
+    padding: 60px 0px;
+}
+    .formLeft h3 {
+    font-size: 30px;
+    line-height: 40px;
+}
+    .formCheckbox .form-group {
+    margin-bottom: 4px;
+}
+    .formInput .form-group .form-control{
+        width: 80%;
+    }
+
+.mobDiv .dropdown-toggle::after{
+    display:none;
+}
+    .banner.bannerNew{
+        margin-bottom: 40px;
+    }
+    .sportModal .modal-header{
+       width: 70%;
+    margin: 0 auto; 
+    }
+    .sportModal .modal-header iframe{
+        
+    width: 100%;
+    height: 400px;
+    }
+
+} 
+@media(max-width:767px){  
+    .container {
+     
+        max-width: 100%;
+    }
+    .banner .col-sm-6, .col-sm-4, .sports_case .col-sm-6
+    {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .banner_left {
+        padding-top: 40px;
+    }
+    h1.headingSize {
+        font-size: 36px;
+        line-height: 40px;
+    }
+    .banner {
+        padding: 50px 0 360px;
+    }
+    .feedback h3 {
+        padding: 10px 0px;
+    }
+
+    .known_left h3 {
+        font-size: 26px;
+    }
+    .known_right ul li {
+        width: 28%;
+        height: 45px;
+    }
+    .known_right ul li {
+        margin-right: 26px;
+    }
+    .known_left {
+        padding-top: 14px;
+    }
+    .feature h2 {
+        padding: 15px 40px;
+    }
+    .feature p {
+        padding: 15px 0px;
+    }
+    .real_time {
+        min-height: 60px;
+        height: 60px;
+    }
+    .feedback p {
+        padding-top: 0px;
+    }
+    .real_time img
+    {
+        height: 100%;
+    }
+    .feed_inner 
+    {
+        margin-bottom: 70px;
+    }
+    .feedback.feedback2 .feed_inner
+    {
+        margin-bottom: 30px;
+    }
+    .ban-right-img {
+        top: 50px;
+        right: 0;
+        width: 500px;
+    }
+    .known_from {
+        padding: 250px 0px 60px;
+    }
+    .sports_case {
+        padding: 30px 0px;
+    }
+    a.btns {
+        width: 160px;
+        font-size: 15px;
+        padding: 10px 0px;
+    }
+    .sports_inner br
+    {
+        display: none;
+    }
+    .sports_right
+    {
+        height: 270px;
+        width: 500px;
+        margin-bottom: 30px;
+    }
+    .featBtn2 {
+        text-align: left;
+        padding: 0 0px 0px;
+    }
+    .sports_case a
+    {
+        background: var(--colorBlue);
+    }
+    .footTop .foottopBox {
+        padding: 0px 15px;
+    }
+    .footerTopbox
+    {
+        display: block;
+        padding: 50px 30px 50px;
+    }
+    .footRight
+    {
+        margin-top: 30px;
+    }
+    .footBottom {
+        padding: 260px 0 120px;
+    }
+    .feedback.feedback2 {
+        padding: 45px 0px 230px;
+    }
+    .footBackground {
+    position: absolute;
+    right: 35;
+    bottom: 15px;
+    width: 46%;
+}
+
+       .banner.bannerCase{
+    padding: 50px 0 240px;
+    }
+    .sports_case.sports_case1{
+        padding: inherit;
+    }
+    .customerInner h5 {
+    font-size: 85px;
+    line-height: 70px;
+    padding-bottom: 25px;
+}
+    .customerInner {
+    margin-bottom: 25px;
+}
+    .cust {
+    margin: 85px 0px;
+    padding: 60px 0px 31px;
+}
+    .helsana {
+    padding: 20px 0px;
+}
+    .feedback.feedback3{
+       padding: 45px 0px;
+/*        margin-bottom: 100px;*/
+    }
+    .feedback.feedback3.feedback7{
+        margin-bottom: 100px;
+    }
+    .teamBehind  .col-sm-4{
+            flex: 0 0 50%;
+    max-width: 50%;
+    }
+    .teamImg {
+    height: 250px;
+}
+    .linkedIn p{
+        font-size: 16px;
+    }
+    .linkedIn {
+    padding: 25px 0px 10px;
+}
+    .linkedIn h2 {
+    padding: 8px 0px;
+}
+    .linkedIn h2{
+        font-size: 24px;
+    }
+    .vayForm .col-sm-6{
+           flex: 0 0 100%;
+    max-width: 100%;
+    }
+    .formLeft form{
+        padding-top:30px;
+    }
+    .morphMobile{
+    display:block;
+}
+.formRight{
+    display:none;
+}
+#morphing-content{
+    padding:90px 24px 45px;
+}
+    .rightIner {
+    position: absolute;
+    top: 90px;
+    right: 15%;
+}
+    .formInput .form-group .form-control {
+    width: 100%;
+}
+    .feed_inner3{
+        margin-bottom: 0;
+    }
+    .btns.btnsNone{
+        display: none;
+    }
+    .sports_case.sports_case4.sports_case6 {
+    padding: 40px 0px;
+}
+.belive_inner p{
+    padding:25px 75px 50px;
+}
+.million_outer{
+    padding:160px 0 200px;
+}
+.sports_right.sports_right2 img {
+     width: auto; 
+     height:auto;
+}
+.sports_right.sports_right2{
+    height:auto;
+}
+.navbar-expand-md .navbar-toggler{
+    right: -11px;
+    top: 17px;
+}
+.mobDiv .dropdown-item {
+    font-size:16px;
+}
+    .demo{
+        display: none;
+    }
+        .demo2{
+        display: block;
+    }
+    .banner.bannerNew {
+    padding: 0px 0 135px;
+}
+    .aboutFirst{
+        display: none;
+    }
+    .aboutSecond{
+        display: block;
+    }
+    .uesCase1{
+        display: none;
+    }
+/*
+    .sportModal .modal-header {
+    width: 50%;
+    margin: 0 auto;
+}
+*/
+    .sportModal .modal-header iframe {
+    height: 340px;
+}
+.sportModal .modal-content {
+    max-width: 100%;
+}
+}
+@media(max-width:560px){
+
+
+    .banner_left {
+        padding-top: 25px;
+    }
+    h1.headingSize {
+        font-size: 33px;
+    }
+    a.btns.featureBtn {
+        padding: 7px 0px;
+    }
+    a.btns {
+        width: 151px;
+        font-size: 14px;
+    }
+    p.headingSize {
+        font-size: 16px;
+    }
+    .ban-right-img {
+        width: 340px;
+        
+    right: 46px;
+    }
+    .banner {
+        padding: 40px 0 280px;
+    }
+    .known_right
+    {
+        display: block;
+        width: 100%;
+    }
+    .known_left h3 {
+        font-size: 22px;
+        padding-top: 0;
+        padding-bottom: 15px;
+    }
+    .known_from {
+        padding: 180px 0px 60px;
+    }
+    .sports_right {
+        height: 220px;
+        width:390px;
+    }
+    .feature h2 {
+        padding: 10px 0px;
+    }
+    .feature p {
+        padding: 10px 0px;
+    }
+    .footerTopbox {
+        display: block;
+        padding: 40px 25px 40px;
+    }
+    .footBackground {
+        right: 13%;
+        bottom: 22px;
+        width: 57%;
+    }
+    p{
+        font-size: 16px;
+    }
+        .teamImg, .teamImg img {
+    height: auto;
+    width: 100%;
+}
+    .rightIner {
+    top: 100px;
+}
+    .sports_case.sports_case4.sports_case6 {
+    padding: 25px 0px;
+}
+  
+    .mobDiv .navbar-collapse#nav .navbar-nav, .mobDiv .callBtn, .mobDiv .socialIcon {
+    margin-left: 50px;
+}
+.belive_inner p {
+    padding: 25px 15px 50px;
+}
+    .sportModal .modal-header {
+    width: 100%;
+}
+    .sportModal .modal-header iframe {
+    height: 235px;
+}
+    .mobDiv .callBtn {
+    margin-top: 55px;
+}
+    .sportModal .modal-content {
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+}
+@media(max-width:414px){
+  
+    .container {
+        padding: 0 15px;
+    }
+    .techStand h2 br{
+        display:none;
+    }
+    .million {
+    padding-left: 0px;
+}
+    .banner_left p.topHeading
+    {
+        font-size: 12px;
+    }
+    h1.headingSize {
+        font-size: 30px;
+    }
+    .known_from {
+        padding: 165px 0px 0px;
+    }
+    .feed_inner p
+    {
+        padding-right: 50px;
+    }
+    .feedback {
+        padding: 35px 0px 0px;
+    }
+    .sports_right {
+        width: 100%;
+        height: 200px;
+    }
+    .real_time1 {
+        min-height: 120px;
+        height: 120px;
+    }
+    .feature h2 {
+        text-align: left;
+    }
+    .feature .lines {
+        float: left;
+    }
+    .feature p {
+        float: left;
+        text-align: left;
+    }
+    .real_time1 img
+    {
+        height: 100%;
+    }
+    .feedback.feedback2 .feed_inner {
+        margin-bottom: 10px;
+    }
+    .footTop .foottopBox {
+    }
+    .footLogo p {
+        margin-top: 5px;
+    }
+    .footerMenu .footmenu
+    {
+        width: 50%;
+    }
+    .feedback.feedback2 {
+        padding: 45px 0px 200px;
+    }
+    a.btns {
+        font-size: 13.5px;
+    }
+    .feedback h3 {
+        padding-right: 60px;
+    }
+    .known_right ul li {
+        width: 27%;
+    }
+    .footerMenu .footmenu:last-child
+    {
+        margin-top: 20px;
+    }
+    .known_left h3 {
+        font-size: 18px;
+        padding-bottom: 10px;
+    }
+    .footerMenu .footmenu ul li a {
+        color: #e7e7e7;
+        margin-bottom: 5px;
+        display: inline-block;
+        line-height: normal;
+    }
+    .footBottom {
+        padding: 250px 0 160px;
+    }
+    .footForm .form
+    {
+        display: flex;
+    }
+    .footForm .form input
+    {
+        width: 100%;
+    }
+    .mainBanner
+    {
+        display: none;
+    }
+    .mobileBanner
+    {
+        display: block;
+    }
+    .banner {
+        padding: 40px 0 248px;
+    }
+    .footBackground {
+        right: 8%;
+        bottom: 16px;
+        width: 61%;
+    }
+    .banner.bannerCase {
+    padding: 50px 0px 200px;
+}
+    .cust {
+    margin: 75px 0px;
+}
+    .customerInner h5 {
+    padding-bottom: 14px;
+}
+    .teamBehind .col-sm-4{
+             flex: 0 0 100%; 
+        max-width: 100%;
+    }
+    .formLeft h3 {
+    font-size: 30px;
+    line-height: 40px;
+}
+    .rightIner {
+    top: 130px;
+}
+    .fancybox-slide>*{
+        padding: 0;
+    }
+    .vayForm {
+        margin-top: 20px;
+    }
+    .mobDiv .navbar-collapse#nav .navbar-nav, .mobDiv .callBtn, .mobDiv .socialIcon {
+    margin-left: 25px;
+}
+.mobDiv .navbar-collapse#nav .navbar-nav {
+    padding-top: 75px;
+}
+.mobDiv .callBtn {
+    margin-top: 80px;
+}
+    .ban-right-img {
+    width: 94%;
+        right: 0;
+}
+
+    .sports_right a:hover .videoPlay span {
+    width: 65px;
+    height: 65px;
+}
+    .videoPlay span{
+       width: 65px;
+    height: 65px;   
+    }
+    .feed_inner {
+    margin-bottom: 50px;
+}
+
+}
+@media(max-width:351px){ 
+    a.btns.contactBtn
+    {
+        margin-bottom: 20px;
+    }
+        .rightIner {
+    top: 140px;
+}
+
+}

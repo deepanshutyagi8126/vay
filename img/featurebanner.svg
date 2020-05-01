@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="591px" viewBox="0 0 1440 591" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 9</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="55.321128%" x2="50%" y2="55.321128%" id="linearGradient-1">
+            <stop stop-color="#112154" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#112154" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Vay-Features" transform="translate(0.000000, -88.000000)">
+            <g id="Group-9" transform="translate(0.000000, 88.000000)">
+                <g id="Group-6" transform="translate(878.000000, 57.000000)" opacity="0.36">
+                    <g id="Group-Copy">
+                        <path d="M32,353.552374 L336.197393,45.8914463 C337.968075,44.1006038 340.855261,44.0842603 342.646103,45.8549422 C343.512458,46.7115443 344,47.8792153 344,49.0975496 L344,357" id="Path-2" stroke="#1A3382" stroke-width="27.36"></path>
+                        <circle id="Oval" fill="#1A3382" cx="38.5" cy="343.5" r="38.5"></circle>
+                        <circle id="Oval-Copy" fill="#1A3382" cx="343.5" cy="343.5" r="38.5"></circle>
+                        <circle id="Oval-Copy-2" fill="#1A3382" cx="343.5" cy="38.5" r="38.5"></circle>
+                    </g>
+                </g>
+                <polygon id="Rectangle-Copy-5" fill="url(#linearGradient-1)" points="0 0 1440 0 1440 454 0 591"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
+
+      

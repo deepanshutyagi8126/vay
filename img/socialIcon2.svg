@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37">
+    <defs>
+        <filter id="a" width="182.8%" height="182.8%" x="-41.4%" y="-41.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.16 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+    </defs>
+    <path fill="#FFF" fill-rule="nonzero" d="M26.364 0H2.636A2.636 2.636 0 0 0 0 2.636v23.728A2.636 2.636 0 0 0 2.636 29h23.728A2.636 2.636 0 0 0 29 26.364V2.636A2.636 2.636 0 0 0 26.364 0zM9.167 23.727H5.278V11.215h3.889v12.512zm-1.984-14.3a2.267 2.267 0 1 1 0-4.535 2.267 2.267 0 0 1 0 4.534zm16.55 14.3h-3.886v-6.084c0-1.452-.027-3.318-2.021-3.318-2.024 0-2.335 1.58-2.335 3.212v6.19h-3.886V11.215h3.73v1.71h.053c.52-.984 1.788-2.021 3.68-2.021 3.937 0 4.665 2.592 4.665 5.96v6.863z" filter="url(#a)" transform="translate(4 2)"/>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="414px" height="630px" viewBox="0 0 414 630" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 11</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="47.3511201%" cy="68.3215496%" fx="47.3511201%" fy="68.3215496%" r="50.2028132%" gradientTransform="translate(0.473511,0.683215),scale(1.000000,0.658730),rotate(-156.851412),translate(-0.473511,-0.683215)" id="radialGradient-1">
+            <stop stop-color="#152969" offset="0%"></stop>
+            <stop stop-color="#112154" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Features_iPhoneX">
+            <g id="Group-11" transform="translate(-1.000000, 0.000000)">
+                <polygon id="Path-6" fill="url(#radialGradient-1)" points="0 630 415 590.526104 414.599693 0 0.643181862 0"></polygon>
+                <g id="Group-Copy" opacity="0.36" transform="translate(18.000000, 146.000000)">
+                    <path d="M32,353.552374 L336.197393,45.8914463 C337.968075,44.1006038 340.855261,44.0842603 342.646103,45.8549422 C343.512458,46.7115443 344,47.8792153 344,49.0975496 L344,357" id="Path-2" stroke="#1A3382" stroke-width="27.36"></path>
+                    <circle id="Oval" fill="#1A3382" cx="38.5" cy="343.5" r="38.5"></circle>
+                    <circle id="Oval-Copy" fill="#1A3382" cx="343.5" cy="343.5" r="38.5"></circle>
+                    <circle id="Oval-Copy-2" fill="#1A3382" cx="343.5" cy="38.5" r="38.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
